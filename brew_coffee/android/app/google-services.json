@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "787969024454",
+    "firebase_url": "https://development-bbf19.firebaseio.com",
+    "project_id": "development-bbf19",
+    "storage_bucket": "development-bbf19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787969024454:android:f795dab2e3b2b396e612c7",
+        "android_client_info": {
+          "package_name": "com.teamindus.brew_coffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787969024454-ate7ncj478eoubomhu093vmmthl0hp72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSu_we_4Nd0hsWVv9uxw1lrPdNilg0wsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787969024454-ate7ncj478eoubomhu093vmmthl0hp72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
